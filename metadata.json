@@ -1,0 +1,5 @@
+{
+  "name": "FigGenie Design Editor",
+  "description": "An AI-powered design assistant. Upload design screenshots to generate editable React/Tailwind code, or receive guidance on how to process Figma files.",
+  "requestFramePermissions": []
+}
